@@ -91,7 +91,7 @@ question12 = input("Скільки коштує Impossible в Granny Legacy?"
                    "А.10"
                    "Б.3"
                    "В.0")
-if question12=="Б":
+if question12=="А":
     print("Правильно!")
 else:
     print("Неравильно!")
@@ -124,7 +124,7 @@ question16 = input("Скільки дверей в Rooms?"
                    "А.250"
                    "Б.500"
                    "В.1000")
-if question16=="Б":
+if question16=="В":
     print("Правильно!")
 else:
     print("Неравильно!")
